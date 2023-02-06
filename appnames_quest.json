@@ -1,0 +1,809 @@
+{
+"Immersed.quest": {
+"name": "Immersed"
+},
+"VirtualDesktop.Android": {
+"name": "Virtual Desktop"
+},
+"co.yomune.gargantua": {
+"name": "SWORDS of GARGANTUA"
+},
+"com.AgainstGravity.RecRoom": {
+"name": "Rec Room"
+},
+"com.Aldin.WotW": {
+"name": "Waltz of the Wizard: Extended Edition"
+},
+"com.AlzanStudios.HPPortable": {
+"name": "Holopoint"
+},
+"com.Archiact.Freediver": {
+"name": "FREEDIVER: Triton Down"
+},
+"com.Armature.FailFactory": {
+"name": "Fail Factory!"
+},
+"com.Armature.SportsScramble": {
+"name": "Sports Scramble"
+},
+"com.Armature.SportsScrambleDemo": {
+"name": "Sports Scramble – Demo"
+},
+"com.AudioGaming.nob5": {
+"name": "NOTES ON BLINDNESS"
+},
+"com.Audiosurf.Audioshield": {
+"name": "Audioshield"
+},
+"com.BigBoxVR.PopulationONE": {
+"name": "POPULATION: ONE"
+},
+"com.BitPlanet.Ultrawings.Quest": {
+"name": "Ultrawings"
+},
+"com.CarbonStudio.TheWizards": {
+"name": "The Wizards"
+},
+"com.CaveManStudio.ContractorsVR": {
+"name": "Contractors VR"
+},
+"com.CooperativeInnovations.Spaceteam": {
+"name": "Spaceteam VR"
+},
+"com.CortopiaStudios.DTRH": {
+"name": "Down the Rabbit Hole"
+},
+"com.CortopiaStudios.Wands": {
+"name": "Wands"
+},
+"com.CubicleNinjas.GuidedTaiChi": {
+"name": "Guided Tai Chi"
+},
+"com.CyanWorlds.Myst": {
+"name": "Myst"
+},
+"com.DigitalLode.Espire1": {
+"name": "Espire 1: VR Operative"
+},
+"com.Drifter.Kodiak": {
+"name": "Lies Beneath"
+},
+"com.Drool.Thumper.quest": {
+"name": "Thumper"
+},
+"com.FireproofStudios.TheRoomVR": {
+"name": "The Room VR: A Dark Matter"
+},
+"com.FirstContact.League": {
+"name": "SOLARIS OFFWORLD COMBAT"
+},
+"com.Flightschool.welivehere": {
+"name": "We Live Here"
+},
+"com.ForwardXP.nuke": {
+"name": "Please, Don't Touch Anything"
+},
+"com.Futuretown.Cloudlands2": {
+"name": "Cloudlands 2"
+},
+"com.GearboxSoftware.Hawthorn": {
+"name": "Penn & Teller VR: F U, U, U, & U"
+},
+"com.GreenerGames.QuestTreks": {
+"name": "Nature Treks VR"
+},
+"com.HarmonixMusic.DCQuestDemoPreload": {
+"name": "Dance Central - Demo"
+},
+"com.HarmonixMusic.DCVRQuest": {
+"name": "Dance Central"
+},
+"com.TenderClaws.Scottsdale.Quest": {
+"name": "Virtual Virtual Reality 2"
+},
+"com.HighVoltage.Crossbow": {
+"name": "Ballista"
+},
+"com.Armature.VR4": {
+"name": "Resident Evil 4"
+},
+"com.crytek.climb2": {
+"name": "The Climb 2"
+},
+"com.ILMxLAB.VaderImmortal.ep1": {
+"name": "Vader Immortal: Episode I"
+},
+"com.ILMxLAB.VaderImmortal.ep2": {
+"name": "Vader Immortal: Episode II"
+},
+"com.ILMxLAB.VaderImmortal.ep3": {
+"name": "Vader Immortal: Episode III"
+},
+"com.Ikimasho.StarShaman": {
+"name": "Star Shaman"
+},
+"com.KinemotikStudios.AudioTripQuest": {
+"name": "Audio Trip"
+},
+"com.LuckyVR.PokerStarsVR": {
+"name": "PokerStars VR"
+},
+"com.Magnopus.MissionISS": {
+"name": "Mission: ISS"
+},
+"com.MelodyVr.MVR": {
+"name": "MelodyVR"
+},
+"com.MightyCoconut.WalkaboutMiniGolf": {
+"name": "Walkabout Mini Golf"
+},
+"com.Miragesoft.RealVrFishingQ": {
+"name": "Real VR Fishing"
+},
+"com.MiroWin.OMT": {
+"name": "Guns'n'Stories: Bulletproof VR"
+},
+"com.MyDearest.Altdeus": {
+"name": "ALTDEUS: Beyond Chronos"
+},
+"com.MyDearest.ChronosQuest": {
+"name": "TOKYO CHRONOS"
+},
+"com.Novelab.Spheres": {
+"name": "SPHERES"
+},
+"com.Oculus.FirstContact": {
+"name": "Oculus First Contact"
+},
+"com.OuterloopGames.FalconAge": {
+"name": "Falcon Age"
+},
+"com.PixelToys.BattleSisters": {
+"name": "Warhammer 40,000: Battle Sister"
+},
+"com.PixelToys.DropDead": {
+"name": "Drop Dead: Dual Strike Edition"
+},
+"com.RacketFury.RF_GearVR": {
+"name": "Racket Fury: Table Tennis VR"
+},
+"com.SDI.TWD": {
+"name": "The Walking Dead: Saints & Sinners"
+},
+"com.Solfar.InDeath": {
+"name": "In Death: Unchained"
+},
+"com.Spatial.Spatial": {
+"name": "Spatial"
+},
+"com.SpicyTails.SaW": {
+"name": "Spice & Wolf VR"
+},
+"com.SquanchGames.Trover": {
+"name": "Trover Saves the Universe"
+},
+"com.SteelWoolGames.fnafhw": {
+"name": "Five Nights at Freddy's: Help Wanted"
+},
+"com.StudioHORANG.SphereToonQuest": {
+"name": "Sphere Toon - VR Comic"
+},
+"com.TenderClaws.TheUnderPresents.Quest": {
+"name": "The Under Presents"
+},
+"com.TenderClaws.VVR.Quest": {
+"name": "Virtual Virtual Reality"
+},
+"com.Things3D.RadialGProteus": {
+"name": "Radial-G: Proteus"
+},
+"com.ThreeDAR.PaperBirdsQuest": {
+"name": "Paper Birds"
+},
+"com.Thunderbox.TsuroVR": {
+"name": "Tsuro - The Game of The Path"
+},
+"com.ToastVR.RichiesPlankExperience": {
+"name": "Richie's Plank Experience"
+},
+"com.Trebuchet.PrisonBossVR": {
+"name": "Prison Boss VR"
+},
+"com.TribeXR.TribeXR": {
+"name": "Tribe XR: DJ in VR"
+},
+"com.UNIVRS.LWAVR": {
+"name": "Little Witch Academia: VR Broom Racing"
+},
+"com.VerticalRobot.RedMatter": {
+"name": "Red Matter"
+},
+"com.WaltDisney.MythAFrozenTale": {
+"name": "Myth: A Frozen Tale"
+},
+"com.WenklyStudio.ElvenAssassin": {
+"name": "Elven Assassin"
+},
+"com.WhiteDoorGames.DreadhallsQuest": {
+"name": "Dreadhalls"
+},
+"com.YourCompany.RoboRecall": {
+"name": "Robo Recall: Unplugged"
+},
+"com.aarpinnovation.alcoveonquest": {
+"name": "Alcove"
+},
+"com.altvr.AltspaceVR_Quest": {
+"name": "AltspaceVR"
+},
+"com.amazon.asxr": {
+"name": "Prime Video VR"
+},
+"com.arte.gloomy_eyes": {
+"name": "Gloomy Eyes"
+},
+"com.baobab.bonfire": {
+"name": "Bonfire"
+},
+"com.beatgames.beatsaber": {
+"name": "Beat Saber"
+},
+"com.beatgames.beatsaber.demo": {
+"name": "Beat Saber - Demo"
+},
+"com.bigscreenvr.bigscreen": {
+"name": "Bigscreen Beta"
+},
+"com.bloober.layersoffearvr": {
+"name": "Layers of Fear VR"
+},
+"com.camouflaj.republiquevr": {
+"name": "République VR"
+},
+"com.casinovr.casinovrpoker": {
+"name": "Poker VR"
+},
+"com.cloudheadgames.pistolwhip": {
+"name": "Pistol Whip"
+},
+"com.coastalbyte.puppetfever": {
+"name": "Puppet Fever"
+},
+"com.coatsink.nexus": {
+"name": "Shadow Point"
+},
+"com.coinflip.ninja": {
+"name": "Ninja Legends"
+},
+"com.coplanar.vre": {
+"name": "Void Racer: Extreme"
+},
+"com.crowscrowscrows.AccountingPlus": {
+"name": "Accounting+"
+},
+"com.crytek.climb": {
+"name": "The Climb"
+},
+"com.deovr.gearvr": {
+"name": "DeoVR Video Player"
+},
+"com.downpourinteractive.onward": {
+"name": "Onward"
+},
+"com.drashvr.titansofspacevr6dof": {
+"name": "Titans of Space PLUS"
+},
+"com.dreamdev.deathhorizon.quest": {
+"name": "Death Horizon: Reloaded"
+},
+"com.emcneill.Ironlights": {
+"name": "Ironlights"
+},
+"com.endspace.quest": {
+"name": "End Space"
+},
+"com.enhanceexperience.rezquest": {
+"name": "Rez Infinite"
+},
+"com.enhanceexperience.tetriseffect": {
+"name": "Tetris® Effect"
+},
+"com.escapistgames.starchartvr.quest": {
+"name": "Star Chart"
+},
+"com.espn.score_center": {
+"name": "ESPN"
+},
+"com.fable.wolvesquest": {
+"name": "Wolves in the Walls"
+},
+"com.facebook.arvr.quillplayer": {
+"name": "Quill Theater"
+},
+"com.facebook.tv": {
+"name": "Facebook Watch"
+},
+"com.facebook.venues": {
+"name": "Venues (Beta Early Access)"
+},
+"com.fallen.manorquest": {
+"name": "AFFECTED: The Manor"
+},
+"com.fandango.fandangonow.android.tv.oculus": {
+"name": "FandangoNOW"
+},
+"com.fasttravelgames.apexconstruct": {
+"name": "Apex Construct"
+},
+"com.fasttravelgames.diorama": {
+"name": "The Curious Tale of the Stolen Pets"
+},
+"com.feels.WhereThoughtsGo.Quest": {
+"name": "Where Thoughts Go"
+},
+"com.felixandpaul.quest.cds_portal": {
+"name": "Cirque du Soleil"
+},
+"com.felixandpaul.quest.fnp_portal": {
+"name": "Felix & Paul Studios"
+},
+"com.felixandpaul.quest.jw_portal": {
+"name": "Jurassic World"
+},
+"com.felixandpaul.quest.nasa_portal": {
+"name": "Space Explorers"
+},
+"com.felixandpaul.quest.twb": {
+"name": "Traveling While Black"
+},
+"com.fitxr.boxvr": {
+"name": "FitXR"
+},
+"com.flightschool.stjude": {
+"name": "St. Jude Hall of Heroes"
+},
+"com.forcefieldxr.annefrankhousevr": {
+"name": "Anne Frank House VR"
+},
+"com.forcefieldxr.coastercombatquest": {
+"name": "Coaster Combat"
+},
+"com.forcefieldxr.explorevr": {
+"name": "National Geographic Explore VR"
+},
+"com.forcefieldxr.timestall": {
+"name": "Time Stall"
+},
+"com.fox.now": {
+"name": "FOX NOW"
+},
+"com.funktroniclabs.fuji": {
+"name": "Fujii"
+},
+"com.fyian.TheThrillOfTheFight": {
+"name": "The Thrill of the Fight"
+},
+"com.golfscope.proputt": {
+"name": "Topgolf with Pro Putt"
+},
+"com.google.android.apps.youtube.vr.oculus": {
+"name": "YouTube VR"
+},
+"com.google.tiltbrush": {
+"name": "Tilt Brush"
+},
+"com.grab.knockout": {
+"name": "Knockout League"
+},
+"com.gravitysketch.gravitysketch": {
+"name": "Gravity Sketch"
+},
+"com.grounding.ch5vrquest": {
+"name": "Space Channel 5 VR Kinda Funky News Flash!"
+},
+"com.halfbrick.fruitninjavr": {
+"name": "Fruit Ninja"
+},
+"com.hanginghatstudios.pigasus": {
+"name": "Pigasus VR Media Player"
+},
+"com.harmonixmusic.kata": {
+"name": "AUDICA"
+},
+"com.hiddenpath.phoenix": {
+"name": "Raccoon Lagoon"
+},
+"com.idreams.potteryvrq": {
+"name": "Let's Create! Pottery VR"
+},
+"com.iillusions.spacepiratetrainerdemo": {
+"name": "Space Pirate Trainer - Demo"
+},
+"com.iillusions.spacepiratetrainerquest": {
+"name": "Space Pirate Trainer"
+},
+"com.ilmxlab.tales": {
+"name": "Star Wars: Tales from the Galaxy's Edge"
+},
+"com.immersivevreducation.Apollo11QuestFinal": {
+"name": "Apollo 11"
+},
+"com.infectiousape.kingspray": {
+"name": "Kingspray Graffiti"
+},
+"com.innerspacevr.afishermanstale": {
+"name": "A Fisherman's Tale"
+},
+"com.ivre.engage": {
+"name": "Engage"
+},
+"com.ivre.ssc": {
+"name": "Shuttle Commander"
+},
+"com.kluge.SynthRiders": {
+"name": "Synth Riders"
+},
+"com.luciddreams.thekey": {
+"name": "The Key"
+},
+"com.magnopus.ElixirStore": {
+"name": "Elixir"
+},
+"com.markschramm.gravitylab": {
+"name": "Gravity Lab"
+},
+"com.mazetheory.doctorwho": {
+"name": "Doctor Who The Edge of Time"
+},
+"com.mekiwi.cavedigger": {
+"name": "Cave Digger"
+},
+"com.metanaut.Gadgeteer": {
+"name": "Gadgeteer"
+},
+"com.mightygamesgroup.shootyvr": {
+"name": "Shooty Skies Overdrive"
+},
+"com.mixedrealms.sairentovruntethered": {
+"name": "Sairento VR : Untethered"
+},
+"com.mlb.MLBVR": {
+"name": "MLB VR"
+},
+"com.motionx.quest.xkart": {
+"name": "Dash Dash World"
+},
+"com.nDreams.PhantomQuest": {
+"name": "Phantom: Covert Ops"
+},
+"com.ndreams.shootyfruity": {
+"name": "Shooty Fruity"
+},
+"com.netflix.ninja.vr": {
+"name": "Netflix"
+},
+"com.neverthink": {
+"name": "Neverthink"
+},
+"com.nextgenreality.GunClubVR": {
+"name": "Gun Club VR"
+},
+"com.nextgenreality.mmrx": {
+"name": "Mini Motor Racing X"
+},
+"com.nextgenreality.rush": {
+"name": "RUSH"
+},
+"com.normalvr.halfandhalf": {
+"name": "Half + Half"
+},
+"com.nousguide.android.rbtv": {
+"name": "Red Bull TV"
+},
+"com.nowheremedia.homeafterwar": {
+"name": "Home After War"
+},
+"com.oculus.HouseFlipperVR": {
+"name": "HouseFlipper VR"
+},
+"com.oculus.MiramarSetupRetail": {
+"name": "First Steps for Quest 2"
+},
+"com.oculus.MontereyNUX": {
+"name": "Bogo"
+},
+"com.oculus.MontereySetup": {
+"name": "First Steps"
+},
+"com.oculus.angelica5k": {
+"name": "Dear Angelica"
+},
+"com.oculus.browser": {
+"name": "Oculus Browser"
+},
+"com.oculus.cinema": {
+"name": "Oculus Video"
+},
+"com.oculus.dab2": {
+"name": "Dead and Buried II"
+},
+"com.oculus.henry5k": {
+"name": "Henry"
+},
+"com.oculus.mediagallery": {
+"name": "Oculus Gallery"
+},
+"com.oculus.tv": {
+"name": "Oculus TV"
+},
+"com.oculus.venues": {
+"name": "Oculus Venues"
+},
+"com.odders.ohshape": {
+"name": "OhShape"
+},
+"com.onehamsa.RNXQ": {
+"name": "Racket: Nx"
+},
+"com.orbusvr.OrbusVR": {
+"name": "OrbusVR: Reborn"
+},
+"com.owlchemylabs.jobsimulator": {
+"name": "Job Simulator"
+},
+"com.owlchemylabs.vacationsimulator": {
+"name": "Vacation Simulator"
+},
+"com.ozwe.deathlap": {
+"name": "Death Lap"
+},
+"com.parkline.wander": {
+"name": "Wander"
+},
+"com.phoria.ecosphere": {
+"name": "ecosphere"
+},
+"com.picselica.OceanRiftFullQuest": {
+"name": "Ocean Rift"
+},
+"com.pocket.homestarvrsp": {
+"name": "Homestar VR: Special Edition"
+},
+"com.polyarc.MossGame": {
+"name": "Moss"
+},
+"com.readyatdawn.r15": {
+"name": "Echo VR"
+},
+"com.resolutiongames.abvriop.santacruz": {
+"name": "Angry Birds VR: Isle of Pigs"
+},
+"com.resolutiongames.baitsantacruz": {
+"name": "Bait!"
+},
+"com.resolutiongames.codenamelazarus": {
+"name": "Acron: Attack of the Squirrels!"
+},
+"com.resolutiongames.cookinggame": {
+"name": "Cook-Out"
+},
+"com.resolutiongames.ignis": {
+"name": "Blaston"
+},
+"com.resolutiongames.wondergladesantacruz": {
+"name": "Wonderglade"
+},
+"com.sadetta.premiumbowling": {
+"name": "Premium Bowling"
+},
+"com.schellgames.ieytdquest": {
+"name": "I Expect You To Die"
+},
+"com.schellgames.untilyoufall": {
+"name": "Until You Fall"
+},
+"com.sculptrvrinc.sculptrvrapp": {
+"name": "SculptrVR"
+},
+"com.showtime.showtimeanytime.vr.tv": {
+"name": "Showtime Anytime"
+},
+"com.showtime.standalone.vr.tv": {
+"name": "SHOWTIME"
+},
+"com.sling": {
+"name": "Sling TV"
+},
+"com.steelcrategames.keeptalkingandnobodyexplodes": {
+"name": "Keep Talking and Nobody Explodes"
+},
+"com.survios.Creed": {
+"name": "Creed: Rise to Glory"
+},
+"com.survios.CreedDemo": {
+"name": "Creed: Rise to Glory - Demo"
+},
+"com.survios.Electronauts": {
+"name": "Electronauts"
+},
+"com.themunky.drunknbarfightQuest": {
+"name": "Drunkn Bar Fight"
+},
+"com.tripp.tripp_client_unity": {
+"name": "TRIPP"
+},
+"com.truantpixel.twomdquest": {
+"name": "2MD: VR Football Unleashed"
+},
+"com.tvb.cubism": {
+"name": "Cubism"
+},
+"com.twistedpixelgames.BTEAM_App": {
+"name": "B-Team"
+},
+"com.twistedpixelgames.POTW_App": {
+"name": "Path of the Warrior"
+},
+"com.ubisoft.StarTrekTNG": {
+"name": "Star Trek: Bridge Crew"
+},
+"com.vertigogames.azsq": {
+"name": "Arizona Sunshine®"
+},
+"com.vertigogames.skyworldbrawl": {
+"name": "Skyworld: Kingdom Brawl"
+},
+"com.viewpointgames.vrkarts_sprint_quest": {
+"name": "VR Karts: Sprint"
+},
+"com.vrchat.oculus.quest": {
+"name": "VRChat"
+},
+"com.vspatial.vspatialclient.gearvrandroid": {
+"name": "vSpatial"
+},
+"com.whalerockindustries.testedvr": {
+"name": "Adam Savage's Tested VR"
+},
+"com.wolfandwood.exorcistlegionvr": {
+"name": "The Exorcist: Legion VR"
+},
+"com.zenstudios.PinballFX2VRQuest": {
+"name": "Pinball FX2 VR"
+},
+"com.zoink.ghostgiant": {
+"name": "Ghost Giant"
+},
+"games.b4t.epicrollercoasters.oculus": {
+"name": "Epic Roller Coasters"
+},
+"gg.trs.fyf2": {
+"name": "Face Your Fears 2"
+},
+"gg.trs.grappa": {
+"name": "Journey of the Gods"
+},
+"gg.trs.grappa_demo": {
+"name": "Journey of the Gods - Demo"
+},
+"in.with.flow.Swords": {
+"name": "Supernatural"
+},
+"in.with.within.quest": {
+"name": "Within"
+},
+"io.arvore.pixelripped1995": {
+"name": "Pixel Ripped 1995"
+},
+"io.arvore.theline": {
+"name": "The Line"
+},
+"jp.actevolve.vrpf_liveedit": {
+"name": "VARK"
+},
+"jp.co.amata.lastlabyrinth": {
+"name": "Last Labyrinth"
+},
+"jp.co.crypton.mikuvrq": {
+"name": "Hatsune Miku VR"
+},
+"ltd.ftl.multiverse.oculus.quest": {
+"name": "Multiverse"
+},
+"net.vtime.quest": {
+"name": "vTime XR"
+},
+"org.mozilla.vrbrowser": {
+"name": "Firefox Reality"
+},
+"pl.bloober.blairwitch": {
+"name": "Blair Witch: Oculus Quest Edition"
+},
+"quest.eleven.forfunlabs": {
+"name": "Eleven Table Tennis"
+},
+"tv.pluto.android": {
+"name": "Pluto TV"
+},
+"unity.SUPERHOT_Team.SUPERHOT_VR_Demo": {
+"name": "SUPERHOT VR - Demo"
+},
+"unity.SUPERHOT_Team.SUPERHOT_VR_QA": {
+"name": "SUPERHOT VR"
+},
+"us.lighthaus.colorspace": {
+"name": "Color Space"
+},
+"xyz.skybox.player.ovr": {
+"name": "SKYBOX VR Video Player"
+},
+"com.purpleyonder.littlecities": {
+"name": "Little Cities"
+},
+"com.coatsink.alone": {
+"name": "Jurassic World :Aftermath"
+},
+"com.Virtuos.R6DLM": {
+"name": "MoH : Above and Beyond"
+},
+"com.Warpfrog.BladeAndSorcery": {
+"name": "Blade and Sorcery - Nomads"
+},
+"com.beatgames.beatpaber": {
+"name": "Beat Saber- Multi Install"
+},
+"com.odders.livechess": {
+"name": "Chess Club VR"
+},
+"side.quest.mobile": {
+"name": "SideQuest is Shit"
+},
+"com.TeravisionGames.NeonFuryVR": {
+"name": "Captain ToonHead vs The Punks from Outer Space"
+},
+"com.Mardonpol.AlvoQuest": {
+"name": "Alvo"
+},
+"com.asg.clockworkdev": {
+"name": "The Last Clockwinder"
+},
+"com.AntiZeroGames.CH": {
+"name": "Captain Hardcore"
+},
+"com.CMGames.IntoTheRadius": {
+"name": "Into The Radius"
+},
+"com.Studio369.WorldOfMechs": {
+"name": "World of Mechs"
+},
+"com.SinnStudio.Medieval": {
+"name": "Swordsman VR"
+},
+"com.vrwerx.paranormalactivity": {
+"name": "Paranormal Activity : The Lost Souls"
+},
+"com.SalmiGmbH.SweetSurrenderVRTests": {
+"name": "Sweet Surrender VR"
+},
+"com.DefectivePenguinGames.Warchasm_OQ": {
+"name": "Warchasm"
+},
+"com.gameboomvr.CookingSimulatorVR": {
+"name": "Cooking Simulator VR"
+},
+"com.YueWorks.ThirdEye": {
+"name": "Project Third Eye"
+},
+"com.garageCollective.ThetaLegion2HD": {
+"name": "Shock Troops"
+},
+"com.camouflaj.salmon": {
+"name": "Marvel's Iron Man VR"
+},
+"com.SDI.TWDCH2": {
+"name": "The Walking Dead S&S Retribution"
+},
+"com.DigitalLode.Espire2": {
+"name": "Espire 2"
+}
+}
